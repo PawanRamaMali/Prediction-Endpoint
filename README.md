@@ -1,3 +1,3 @@
-# Authentication-API
+# Prediction-Endpoint
 
-Authentication REST API using R Plumber 
+Prediction-Endpoint using R Plumber 
